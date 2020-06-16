@@ -1,0 +1,5 @@
+﻿  PwŚG_lab1.cpp
+C:\Users\Artur\Dysk Google\PC_-_Laptop\Studia\Semestr 4\PwŚG\Bejeweled\Bejeweled\PwŚG_lab1\PwŚG_lab1.cpp(710,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artur\Dysk Google\PC_-_Laptop\Studia\Semestr 4\PwŚG\Bejeweled\Bejeweled\PwŚG_lab1\PwŚG_lab1.cpp(1108,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artur\Dysk Google\PC_-_Laptop\Studia\Semestr 4\PwŚG\Bejeweled\Bejeweled\PwŚG_lab1\PwŚG_lab1.cpp(1109,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PwŚG_lab1.vcxproj -> C:\Users\Artur\Dysk Google\PC_-_Laptop\Studia\Semestr 4\PwŚG\Bejeweled\Bejeweled\PwŚG_lab1\Debug\PwŚG_lab1.exe
